@@ -14,3 +14,14 @@ Microserviços #1
 +Escalável
 
 -Complexo
+
+Arquitetura de aplicações móveis e internet das coisas
+
+ESTRUTURA GPS
+mqtt :// broker.io / 6d6dsds(user identifier) / gps(sensor) / position(information type)
+
+tipos de informação(information type): 
+
+-Position
+
+-velocity
